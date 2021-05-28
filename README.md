@@ -9,7 +9,11 @@ IP Calculator base on (netmask/CIDR/host) and using regex validation.
 # Usage
 
 ```js
+// import the function
 import { ipCalc } from 'ip-calc-regex';
+
+// or
+// const { ipCalc } = require('ip-calc-regex')
 
 ipCalc('192.168.1.1', 1, '24')
 
