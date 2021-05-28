@@ -1,0 +1,21 @@
+{
+  "name": "ip-calc-regex",
+  "version": "1.0.0",
+  "description": "IP Calculator base on (Netmask/CIDR/Host) using regex validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snowfluke/ip-calc-regex.git"
+  },
+  "keywords": [
+    "ip",
+    "calculator",
+    "ipCalc",
+    "ip-calc-regex"
+  ],
+  "author": "Awal Ariansyah",
+  "license": "ISC"
+}
